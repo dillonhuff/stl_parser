@@ -1,0 +1,6 @@
+*~
+parse-stl
+cmake_install.cmake
+Makefile
+CMakeFiles/
+CMakeCache.txt
