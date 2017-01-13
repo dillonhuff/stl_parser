@@ -4,8 +4,6 @@
 #include "parse_stl.h"
 
 int main(int argc, char* argv[]) {
-  //assert(argc == 2);
-
   std::string stl_file_name = "./Box1x1x1.stl";
 
   if (argc == 2) {
